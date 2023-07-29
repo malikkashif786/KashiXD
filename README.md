@@ -1,4 +1,5 @@
 # KashiXD
+rm -rf KashiXD
 
 pkg update
 
