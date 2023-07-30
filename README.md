@@ -11,4 +11,4 @@ git clone https://github.com/malikkashif786/KashiXD
 
 cd KashiXD
 
-python kashifxd_enc.py
+python kashifauto_enc.py
